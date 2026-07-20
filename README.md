@@ -205,6 +205,7 @@ Everything is data-driven. Adding new content requires only a single array entry
   beak: '#ffaa00'    // beak colour
 }
 
+
 ```
 
 ### Adding a New Scenery
@@ -222,6 +223,7 @@ Everything is data-driven. Adding new content requires only a single array entry
   aurora: true,       // show aurora borealis
   stars: true         // show star field
 }
+
 ```
 
 ---
