@@ -1,3 +1,11 @@
+```
+______   ____   ____    ____  __ __|__| ____   _______ __ __  ____  
+\____ \_/ __ \ /    \  / ___\|  |  \  |/    \  \_  __ \  |  \/    \ 
+|  |_> >  ___/|   |  \/ /_/  >  |  /  |   |  \  |  | \/  |  /   |  \
+|   __/ \___  >___|  /\___  /|____/|__|___|  /  |__|  |____/|___|  /
+|__|        \/     \//_____/               \/                    \/ 
+
+```
 # 🐧 Penguin Run HD
 
 [![HTML5](https://img.shields.io/badge/HTML5-Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
