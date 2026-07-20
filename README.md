@@ -204,6 +204,7 @@ Everything is data-driven. Adding new content requires only a single array entry
   scarf: '#ff00cc',  // scarf colour
   beak: '#ffaa00'    // beak colour
 }
+
 ```
 
 ### Adding a New Scenery
