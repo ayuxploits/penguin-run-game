@@ -10,7 +10,7 @@ ______   ____   ____    ____  __ __|__| ____   _______ __ __  ____
 
 [![HTML5](https://img.shields.io/badge/HTML5-Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla%20ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![No Dependencies](https://img.shields.io/badge/Dependencies-Zero-brightgreen?style=for-the-badge)](https://github.com/ayuuXploits/penguin_V3.html)
+[![No Dependencies](https://img.shields.io/badge/Dependencies-Zero-brightgreen?style=for-the-badge)](https://github.com/ayuxploits/penguin_V3.html)
 [![Platform](https://img.shields.io/badge/Platform-Browser%20%7C%20Chrome%20%7C%20Edge-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
 
 > A penguin sprinting across a frozen arctic landscape, leaping over icebergs while a relentless sea lion closes in from behind. How long can you survive?
@@ -138,7 +138,7 @@ No installation required.
 
 ```bash
 # Clone the repository
-git clone https://github.com/ayuuXploits/penguin_V3.html.git
+git clone https://github.com/ayuxploits/penguin_V3.html.git
 
 # Navigate into the project
 cd penguin_V3.html
@@ -239,15 +239,15 @@ Everything is data-driven. Adding new content requires only a single array entry
 ## 📄 License
 
 ```
-Copyright (c) 2026 Ayush Kumar (ayuuXploits). All rights reserved.
+Copyright (c) 2026 Ayush Kumar (ayuxploits). All rights reserved.
 ```
 
 ---
 
 ## 🙌 Author
 
-**ayuuXploits**
-- GitHub: [@ayuuXploits](https://github.com/ayuuXploits)
+**ayuxploits**
+- GitHub: [@ayuxploits](https://github.com/ayuxploits)
 
 ---
 
